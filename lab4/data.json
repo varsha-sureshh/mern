@@ -1,0 +1,20 @@
+[
+  {
+    "usn":"1ABCD123",
+    "name":"John Doe",
+    "sem":3,
+    "year_of_admission":2022
+  },
+  {
+    "usn":"2EFGH456",
+    "name":"Jane Smith",
+    "sem":4,
+    "year_of_admission":2021
+  },
+  {
+    "usn":"3IJKL789",
+    "name":"Alice Johnson",
+    "sem":2,
+    "year_of_admission":2023
+  }
+]
